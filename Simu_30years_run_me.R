@@ -1,6 +1,6 @@
 #==================================================================================
 #Running simulation SNP and Haplo GS over 30 years
-# Pipeline adapted from from Dr. Marco A. Peixoto
+# Pipeline adapted from Dr. Marco A. Peixoto
 
 ###>>>----------------------------------------------------###
 ###> 1. Setting the base population and initial variables ###
